@@ -5,6 +5,4 @@
 Make and Publish Fully Open-source LLM
 
 ## Links
-- [GitHub](https://github.com/Zeta-LLM/Zeta/)
-- [Twitter](https://x.com/Zeta_LLM/)
-- [HuggingFace](https://huggingface.co/Zeta-LLM/)
+| [GitHub](https://github.com/Zeta-LLM/Zeta/) | [X](https://x.com/Zeta_LLM/) | [HuggingFace](https://huggingface.co/Zeta-LLM/) |
