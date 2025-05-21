@@ -1,3 +1,5 @@
+![Zeta LLM Wall](https://github.com/user-attachments/assets/9473a152-cdfb-421a-8367-e5a0ec78fd2e)
+
 # Zeta LLM
 Make and Publish Fully Open-source LLM
 
