@@ -8,13 +8,12 @@ Make and Publish Fully Open-source LLM
 
 ## Repos
 
-### Main [Zeta-LLM/Zeta](https://github.com/Zeta-LLM/Zeta/)
+- **Main** [Zeta-LLM/Zeta](https://github.com/Zeta-LLM/Zeta/)
 
-### Tool [Zeta-LLM/Zeta-Tool](https://github.com/Zeta-LLM/Zeta-Tool/)
+- **Tool** [Zeta-LLM/Zeta-Tool](https://github.com/Zeta-LLM/Zeta-Tool/)
 
-### Dataset [Zeta-LLM/Zeta-Dataset/releases](https://github.com/Zeta-LLM/Zeta-Dataset/releases/)
-
-### AzukiF [DiamondGotCat/Azuki-Format](https://github.com/DiamondGotCat/Azuki-Format/)
+- **Dataset** [Zeta-LLM/Zeta-Dataset/releases](https://github.com/Zeta-LLM/Zeta-Dataset/releases/)
+- **AzukiF** [DiamondGotCat/Azuki-Format](https://github.com/DiamondGotCat/Azuki-Format/)
 
 ## Links
 ### [Twitter (formerly X)](https://x.com/Zeta_LLM/) 
