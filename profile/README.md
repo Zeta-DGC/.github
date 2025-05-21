@@ -3,9 +3,8 @@
 # Zeta LLM
 Make and Publish Fully Open-source LLM
 
-## Members
-
-### [DiamondGotCat](https://github.com/DiamondGotCat/) Owner
+## Developer
+[DiamondGotCat](https://github.com/DiamondGotCat/)
 
 ## Repos
 
