@@ -1,6 +1,7 @@
-![Zeta LLM Wall](https://github.com/user-attachments/assets/9473a152-cdfb-421a-8367-e5a0ec78fd2e)
+![DiamondGotCat 20 Wall](https://github.com/user-attachments/assets/66bc96cf-a94f-4360-995e-6f4251c99aae)
 
 # Zeta LLM
+
 Make and Publish Fully Open-source LLM
 
 ## Developer
