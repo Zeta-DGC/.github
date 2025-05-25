@@ -1,5 +1,4 @@
-![wall-2_v20-1](https://github.com/user-attachments/assets/2595f753-2232-4609-9251-9311aed5e2de)
-
+![wall_v20-1](https://github.com/user-attachments/assets/eaa9b1cc-3711-4c9b-890e-64db72a97f5d)
 
 # Zeta LLM
 
