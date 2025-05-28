@@ -1,6 +1,7 @@
-![DiamondGotCat Thumbnail](https://github.com/user-attachments/assets/fc67b241-9220-49f2-91f0-0521c1c380ec)
+![Zeta Thumbnail](https://github.com/user-attachments/assets/e31abcd8-aefb-4b6c-ba1f-13917c8f2260)
 
 # Zeta LLM
+
 
 Make and Publish Fully Open-source LLM
 
