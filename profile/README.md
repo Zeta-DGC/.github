@@ -1,4 +1,4 @@
-![wall_v20-1](https://github.com/user-attachments/assets/eaa9b1cc-3711-4c9b-890e-64db72a97f5d)
+![DiamondGotCat Thumbnail](https://github.com/user-attachments/assets/fc67b241-9220-49f2-91f0-0521c1c380ec)
 
 # Zeta LLM
 
