@@ -4,7 +4,8 @@
 Pushing the boundaries of technology
 
 ## Repos
-
+- Zeta in SPP(Stock Price Prediction)
+  - **Main** [Zeta-DGC/Zeta-SPP](https://github.com/Zeta-DGC/Zeta-SPP/)
 - Zeta in LLM
   - **Main** [Zeta-DGC/Zeta-LLM](https://github.com/Zeta-DGC/Zeta-LLM/)
   - **Tool** [Zeta-DGC/Zeta-LLM-Tool](https://github.com/Zeta-DGC/Zeta-LLM-Tool/)
