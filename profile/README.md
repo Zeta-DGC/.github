@@ -13,5 +13,5 @@ Pushing the boundaries of technology
   - **AzukiF** [DiamondGotCat/Azuki-Format](https://github.com/DiamondGotCat/Azuki-Format/)
 
 ## Links
-### [Twitter (formerly X)](https://x.com/Zeta_LLM/) 
-### [HuggingFace](https://huggingface.co/Zeta-LLM/)
+### [Twitter (formerly X)](https://x.com/Zeta_DGC/) 
+### [HuggingFace](https://huggingface.co/Zeta-DGC/)
