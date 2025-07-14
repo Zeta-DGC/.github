@@ -1,5 +1,3 @@
-![Zeta Thumbnail](https://github.com/user-attachments/assets/e31abcd8-aefb-4b6c-ba1f-13917c8f2260)
-
 # Zeta Project
 Pushing the boundaries of technology
 
