@@ -1,3 +1,6 @@
+
+<img width="1920" height="1080" alt="Zeta Header Rounded" src="https://github.com/user-attachments/assets/b48fb2be-6d3d-4545-9ea7-508b7b6a4cf4" />
+
 # Zeta Project
 Pushing the boundaries of technology
 
