@@ -1,7 +1,3 @@
-
-<img width="1920" height="1080" alt="Zeta Header" src="https://github.com/user-attachments/assets/1d187e91-9212-42f2-9e1b-7d0b448f5668" />
-
-# Zeta Project
 Pushing the boundaries of technology
 
 ## Repos
